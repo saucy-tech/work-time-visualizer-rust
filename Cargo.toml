@@ -1,6 +1,6 @@
 [package]
 name = "work-time-visualizer"
-version = "0.1.0"
+version = "0.1.0-alpha.1"
 edition = "2021"
 description = "Windows taskbar widget showing daily and weekly work-time progress"
 
